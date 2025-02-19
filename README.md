@@ -5,7 +5,7 @@ NOTE: This project is only configured for iOS development
 Clone the repo
 
 ```
-git clone https://github.com/goremedical/pulse-mobile.git
+git clone https://github.com/ys-sherzad/ScanditSampleProject.git
 ```
 
 On your project directory
